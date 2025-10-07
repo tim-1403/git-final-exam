@@ -1,0 +1,6 @@
+Tính năng mới:
+- Thêm chức năng
+- Tự động kiểm tra
+- Ghi log thay đổi
+- Cho phép restore nhanh
+- Tích hợp kiểm thử
