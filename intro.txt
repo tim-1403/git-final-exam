@@ -1,0 +1,19 @@
+Giới thiệu cá nhân:
+Tôi là Hoa Tím
+Sinh viên ngành CNTT
+Hiện tại đang học năm 4
+Muốn cải thiện Kỹ năng Git
+Sở thích:
+Ca hát
+Nghe nhạc
+Xem phim
+Kỹ năng:
+Học nhóm
+Chỉnh ảnh
+Giao tiếp
+Kế hoạch học tập:
+- Học Git mỗi ngày 30 phút
+- Làm bài tập và luyện đề
+- Ôn lý thuyết
+- Thực hành nhiều
+- Sửa lỗi
